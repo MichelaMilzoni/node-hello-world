@@ -1,0 +1,19 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "inizializzo un'app di prova",
+  "keywords": [
+    "app",
+    "init",
+    "prova",
+    "hello",
+    "world"
+  ],
+  "license": "ISC",
+  "author": "Milzoni Michela",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
